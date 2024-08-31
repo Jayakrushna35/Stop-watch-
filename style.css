@@ -11,11 +11,11 @@ body {
     align-items: center;
     width: 100%;
     height: 100vh;
-    background-color: rgb(48, 48, 216);
+    background-color: rgb(101, 222, 241);
 }
 
 h1 {
-    color: rgb(10, 238, 10);
+    color: rgb(241, 162, 25);
     text-align: center;
 }
 
@@ -49,13 +49,13 @@ h1 {
 }
 
 #start {
-    background-color: #009779;
+    background-color: #419334;
 }
 
 #stop {
-    background-color: #0e85fc;
+    background-color: #8d0606;
 }
 
 #reset {
-    background-color: #c91400;
+    background-color: #093bc2;
 }
